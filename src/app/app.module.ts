@@ -9,7 +9,7 @@ import { ViewComponent } from './student/view/view.component';
 import { NotFoundComponent } from './not-found/not-found.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
-import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+// import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { EditStudentComponent } from './components/edit-student/edit-student.component';
 import { AddStudentComponent } from './components/add-student/add-student.component';
 
